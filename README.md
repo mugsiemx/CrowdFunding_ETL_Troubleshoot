@@ -22,16 +22,12 @@ The instructions for this mini project were divided into the following subsectio
 
 The following image shows this category DataFrame:
 
-    ![category DataFrame]()
-
 - Export the category DataFrame as category.csv and save it to your GitHub repository.
 - Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
 - A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
 - A "subcategory" column that contains only the subcategory titles
 
 The following image shows this subcategory DataFrame:
-
-    ![subcategory DataFrame]()
 
 - Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 -------------------------------------------
@@ -53,8 +49,6 @@ The following image shows this subcategory DataFrame:
             The "subcategory_id" column, with the unique identification numbers matching those in the "subcategory_id" column of the subcategory DataFrame
 
 The following image shows this campaign DataFrame:
-
-    ![campaign DataFrame]()
 
 - Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 -------------------------------------------
