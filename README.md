@@ -1,5 +1,5 @@
 # CrowdFunding_ETL
-Mini Project 2
+<!-- Mini Project 2
 
 Created by Molly Gac and Sheila LaRoue
 
